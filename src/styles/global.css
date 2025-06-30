@@ -11,4 +11,5 @@ select,
 option,
 textarea {
   font-family: "Cairo", sans-serif;
+  background-color: #f8f8ff;
 }
